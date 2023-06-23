@@ -1,9 +1,9 @@
 # DietNudge: Postprandial hyperglycemia detection with interpretability
-<br>
+
 <p align="center">
     <img width="260" alt="Diet Nudge" src="https://github.com/Arefeen06088/DietNudge/assets/50717558/fdea31b4-5b97-493b-adb8-a9d01d5fcde7">
 </p>
-<br><br>
+
 link to the CGM dataset: https://data.mendeley.com/datasets/c7vx2576y2/1
 
 
